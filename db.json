@@ -1,0 +1,25 @@
+{
+  "associates": [
+    {
+        "id": "P123456",
+        "name": "Jack Frost",
+        "division": "Facilities",
+        "team": "Weather"
+      },{
+        "id": "P654321",
+        "name": "Jack Frost",
+        "division": "Operations",
+        "team": "DevOps"
+      },{
+        "id": "P111111",
+        "name": "Jack Frost",
+        "division": "UX",
+        "team": "User Experience"
+      },{
+        "id": "P222222",
+        "name": "Jack Frost",
+        "division": "Operations",
+        "team": "Database"
+      }
+  ]
+}
